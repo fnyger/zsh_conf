@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 # Install antidote
-git clone --depth=1 https://github.com/mattmc3/antidote.git ${ZDOTDIR:-~}/.antidote
+git clone --depth=1 https://github.com/mattmc3/antidote.git ${ZDOTDIR:-~/.zsh}/.antidote
 
 # Create symlink to .zshrc
 ln -s ~/.zsh/.zshrc ~/.zshrc

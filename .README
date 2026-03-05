@@ -5,4 +5,6 @@ Repo for terminal config
 
 2. Install zsh + oh-my-zsh `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
-3. Run install script `./install.sh` 
+3. Clone this repo to ~/.zsd/ `git clone git@github.com:fnyger/zsh_conf.git ~/.zsh/`
+
+4. Run install script `./install.sh` 
