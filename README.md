@@ -7,4 +7,4 @@ Repo for terminal config
 
 3. Clone this repo to ~/.zsd/ `git clone git@github.com:fnyger/zsh_conf.git ~/.zsh/`
 
-4. Run install script `./install.sh` 
+4. Run install script `source ./install.sh` 
